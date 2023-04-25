@@ -1,14 +1,3 @@
 {
-  "users": [
-    {
-      "email": "anwar1@gmail.com",
-      "password": "$2a$10$PEjc/duEjrmmaSpLIemQQOykltxxRZGHp9t8CK8yGbaa3/ObB3Hya",
-      "id": 1
-    },
-    {
-      "email": "aaaaanwar1@gmail.com",
-      "password": "$2a$10$zF8YrT/ezPR2xLc/x8wlrOrPC0jvvmrUDeJF8NblzRBLPnwnKn8Uu",
-      "id": 2
-    }
-  ]
+  "users": []
 }
